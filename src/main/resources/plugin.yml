@@ -1,0 +1,4 @@
+name: MontePlugin
+version: '${project.version}'
+main: monteplugin.monteplugin.MontePlugin
+api-version: 1.19
